@@ -2567,7 +2567,7 @@ importers:
 
   packages/create-astro:
     specifiers:
-      '@astrojs/cli-kit': ^0.2.2
+      '@astrojs/cli-kit': ^0.2.3
       '@types/which-pm-runs': ^1.0.0
       arg: ^5.0.2
       astro-scripts: workspace:*
